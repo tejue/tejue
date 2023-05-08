@@ -1,5 +1,10 @@
 ## ⛵ Hi there and welcome to my GitHub profile ⛵
 
+
+
+
+I am a cultural scientist, based in Berlin, loving nature and woodwork, believing in the power of many, in David rather than in Goliath and currently learning how to code with [neue fische](https://www.neuefische.de)
+
 <!--
 **tejue/tejue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
