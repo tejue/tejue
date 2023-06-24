@@ -1,23 +1,28 @@
-## ⛵ Hi there and welcome to my GitHub profile ⛵
 
-I am a cultural scientist, based in Berlin, loving nature and woodwork, believing in the power of many, in David rather than in Goliath and currently learning how to code with [neue fische](https://www.neuefische.de)
+## Hi there and welcome to my GitHub profile ☀️ 
+##### In spring 2023 I decided to break new ground and stepped into the world of coding with [neue fische](https://www.neuefische.de)
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejue&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-## Languages and Tools
-
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+#### Languages and Tools so far
+<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NextJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
+<br/>
 
--->
 
-<!--
-![picture of code](https://images.unsplash.com/photo-1518773553398-650c184e0bb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80)
--->
+#### Topics I would like to learn more about 
+
+![](https://img.shields.io/badge/⛵-accessibility-7D898B?labelColor=AC6EFF) ![](https://img.shields.io/badge/⛵-backend-7D898B?labelColor=AC6EFF) ![](https://img.shields.io/badge/⛵-datasecurity-7D898B?labelColor=AC6EFF) ![](https://img.shields.io/badge/⛵-testing-7D898B?labelColor=AC6EFF)
+
+<details>
+  <summary>GitHub Stats</summary>
+<br />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tejue&show_icons=true&theme=radical)
+
+</details>
 
 <!--
 **tejue/tejue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,4 +37,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejue&layout=compact&theme=radical)
+i am based in Berlin
+i love nature and woodwork
+i believe in the power of many and in David rather than Golliath
 -->
