@@ -1,20 +1,20 @@
 
 ## Hi there and welcome to my GitHub profile ☀️ 
-##### In spring 2023 I decided to break new ground and stepped into the world of coding with [neue fische](https://www.neuefische.de)
+In spring 2023 I decided to break new ground and stepped into the world of coding with [neue fische](https://www.neuefische.de)
 <br />
 
-#### Languages and Tools so far
-<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+### Languages and Tools (so far)
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDb" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="NextJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
 <br/>
 
+### Topics I want to learn (more about) 
 
-#### Topics I would like to learn more about 
-
-![](https://img.shields.io/badge/⛵-accessibility-7D898B?labelColor=AC6EFF) ![](https://img.shields.io/badge/⛵-backend-7D898B?labelColor=AC6EFF) ![](https://img.shields.io/badge/⛵-datasecurity-7D898B?labelColor=AC6EFF) ![](https://img.shields.io/badge/⛵-testing-7D898B?labelColor=AC6EFF)
+![](https://img.shields.io/badge/⛵-accessibility-7D898B?labelColor=FF428E) ![](https://img.shields.io/badge/⛵-backend-7D898B?labelColor=FF428E) ![](https://img.shields.io/badge/⛵-clean_code-7D898B?labelColor=FF428E) ![](https://img.shields.io/badge/⛵-datasecurity-7D898B?labelColor=FF428E) ![](https://img.shields.io/badge/⛵-testing-7D898B?labelColor=FF428E) ![](https://img.shields.io/badge/⛵-typescript-7D898B?labelColor=FF428E) 
 
 <details>
   <summary>GitHub Stats</summary>
@@ -45,4 +45,5 @@ Here are some ideas to get you started:
 i am based in Berlin
 i love nature and woodwork
 i believe in the power of many and in David rather than Golliath
+AC6EFF
 -->
