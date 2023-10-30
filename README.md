@@ -3,6 +3,7 @@
 In spring 2023 I decided to break new ground and stepped into the world of coding.
 
 ⚓ First Port: Web Development [@neue fische](https://www.neuefische.de)
+⚓ Next Port: Java Fullstack [@neue fische](https://www.neuefische.de)
 <br />
 
 ### Languages and Tools (so far)
@@ -45,8 +46,6 @@ Here are some ideas to get you started:
 <!--
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejue&layout=compact&theme=radical)
-i am based in Berlin
-i love nature and woodwork
 i believe in the power of many and in David rather than Golliath
 AC6EFF
 -->
