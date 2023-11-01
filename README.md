@@ -18,7 +18,7 @@ In spring 2023 I decided to break new ground and stepped into the world of codin
 
 ### Topics I want to learn (more about) 
 
-![](https://img.shields.io/badge/⛵-accessibility-7D898B?labelColor=FF428E) ![](https://img.shields.io/badge/⛵-backend-7D898B?labelColor=FF428E) ![](https://img.shields.io/badge/⛵-clean_code-7D898B?labelColor=FF428E) ![](https://img.shields.io/badge/⛵-datasecurity-7D898B?labelColor=FF428E) ![](https://img.shields.io/badge/⛵-testing-7D898B?labelColor=FF428E) ![](https://img.shields.io/badge/⛵-typescript-7D898B?labelColor=FF428E) 
+![](https://img.shields.io/badge/⛵-accessibility-7D898B?labelColor=FF428E) ![](https://img.shields.io/badge/⛵-clean_code-7D898B?labelColor=FF428E) ![](https://img.shields.io/badge/⛵-datasecurity-7D898B?labelColor=FF428E) ![](https://img.shields.io/badge/⛵-testing-7D898B?labelColor=FF428E) ![](https://img.shields.io/badge/⛵-typescript-7D898B?labelColor=FF428E) 
 
 <h3><details>
   <summary>GitHub Stats</summary>
