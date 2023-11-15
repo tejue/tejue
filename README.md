@@ -4,7 +4,7 @@ In spring 2023 I decided to break new ground and stepped into the world of codin
 
 ⚓ First Port: Web Development [@neue fische](https://www.neuefische.de)
 <br />
-⚓ Next Port: Java Fullstack [@neue fische](https://www.neuefische.de)
+⚓ currently laying at anchor: Java Fullstack [@neue fische](https://www.neuefische.de)
 <br />
 
 ### Languages and Tools (so far)
